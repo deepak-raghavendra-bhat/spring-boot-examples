@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac03e4b3-7e68-4a5c-ac67-37c0377796f1" name="Changes" comment="" />
+    <list default="true" id="ac03e4b3-7e68-4a5c-ac67-37c0377796f1" name="Changes" comment="Updated jdk ref">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/spring-boot-examples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,8 +31,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/home/spring/IdeaProjects/spring-boot-projects",
     "node.js.detected.package.eslint": "true",
@@ -56,12 +66,24 @@
       <option name="presentableId" value="Default" />
       <updated>1675100676562</updated>
       <workItem from="1675100678941" duration="40000" />
-      <workItem from="1675101125868" duration="1012000" />
+      <workItem from="1675101125868" duration="1677000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated jdk ref">
+      <created>1675103042426</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675103042427</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated jdk ref" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated jdk ref" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
